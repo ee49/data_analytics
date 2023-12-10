@@ -1,2 +1,2 @@
 # data_analytics
-python Data Analytics
+python Data Analytics: Basics on how to use pandas and jupyter notebook
